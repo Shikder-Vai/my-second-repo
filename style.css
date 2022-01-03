@@ -3,3 +3,9 @@ h1{
     background-color: brown;
     text-align: center;
 }
+h2{
+    text-align: center;
+    border: 20px solid yellowgreen ;
+    margin: 50px;
+    border-radius: 6px;
+}
